@@ -1,2 +1,2 @@
-# advantageo
-This is a project attempting to create a Settlers of Catan game.
+# Advantageo (Catan Alternative) Client Setup
+This is a project that generates boards like those in The Settlers of Catan in your browser.
